@@ -6,7 +6,7 @@
 
 ## 作者
 
-- [@Lingbo-Huang](https://www.github.com/octokatherine)
+- [@Lingbo-Huang](https://www.github.com/Lingbo-Huang)
 
 
 ## 截图
